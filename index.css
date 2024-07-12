@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-hero{
+    background-color: #261f44;
+    /* color: #6f6985; */
+}
+.txtcolorwhite{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-brand:hover{
+    color: white;
+}
+
+.nav-buttoncolor{
+    background-color: #ff5938;
+}
